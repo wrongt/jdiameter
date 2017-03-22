@@ -18,10 +18,10 @@
   <description>Restcomm Diameter</description>
   <url>https://github.com/RestComm/jdiameter</url>
 
-  <ciManagement>
-    <system>Jenkins</system>
-    <url>https://mobicents.ci.cloudbees.com/job/RestComm-jDiameter-1.x/</url>
-  </ciManagement>
+<!--   <ciManagement> -->
+<!--     <system>Jenkins</system> -->
+<!--     <url>https://mobicents.ci.cloudbees.com/job/RestComm-jDiameter-1.x/</url> -->
+<!--   </ciManagement> -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
